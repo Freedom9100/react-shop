@@ -1,0 +1,221 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Бычье сердце",
+      "latin": "Solanum lycopersicum",
+      "category": "Томаты",
+      "price": 89,
+      "image": "img/1.jpg",
+      "photo": "https://commons.wikimedia.org/wiki/File:TomateCuorediBuePiemonte.jpg",
+      "description": "Крупный ребристый томат с мясистой мякотью и почти без семенных камер. Высокий куст, нужна подвязка. Хорош в салат и на бутерброд.",
+      "sow": [
+        2,
+        3
+      ],
+      "harvest": [
+        7,
+        9
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Зелёная зебра",
+      "latin": "Solanum lycopersicum",
+      "category": "Томаты",
+      "price": 120,
+      "image": "img/2.jpg",
+      "photo": "https://commons.wikimedia.org/wiki/File:Tomato_Cultivar_Green_Zebra_2021.jpg",
+      "description": "Полосатый томат, который и в спелости остаётся зелёным с жёлтыми штрихами. Кисло-сладкий вкус, плоды средние, отлично смотрятся в нарезке.",
+      "sow": [
+        3,
+        3
+      ],
+      "harvest": [
+        7,
+        9
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Чёрный Крым",
+      "latin": "Solanum lycopersicum",
+      "category": "Томаты",
+      "price": 110,
+      "image": "img/3.jpg",
+      "photo": "https://commons.wikimedia.org/wiki/File:Black_krim_tomato.jpg",
+      "description": "Тёмно-бордовый, почти шоколадный томат с солоноватым привкусом. Плоды крупные, кожица тонкая — для еды сразу с грядки, а не для хранения.",
+      "sow": [
+        2,
+        3
+      ],
+      "harvest": [
+        7,
+        8
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Халапеньо",
+      "latin": "Capsicum annuum",
+      "category": "Перцы",
+      "price": 95,
+      "image": "img/4.jpg",
+      "photo": "https://commons.wikimedia.org/wiki/File:Jalape%C3%B1o_Peppers_-_levels_of_ripening.JPG",
+      "description": "Мексиканский острый перец средней жгучести. Собирают и зелёным, и красным. Растёт и в теплице, и в большом горшке на балконе.",
+      "sow": [
+        2,
+        2
+      ],
+      "harvest": [
+        8,
+        9
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Каролинский жнец",
+      "latin": "Capsicum chinense",
+      "category": "Перцы",
+      "price": 240,
+      "image": "img/5.jpg",
+      "photo": "https://commons.wikimedia.org/wiki/File:Carolina_Reaper_pepper_pods.jpg",
+      "description": "Один из самых жгучих перцев в мире, плоды с характерным хвостиком. Всходит медленно, сеять раньше всех. С плодами работать только в перчатках.",
+      "sow": [
+        1,
+        2
+      ],
+      "harvest": [
+        8,
+        10
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Тайский чили",
+      "latin": "Capsicum annuum",
+      "category": "Перцы",
+      "price": 130,
+      "image": "img/6.jpg",
+      "photo": "https://commons.wikimedia.org/wiki/File:Thai_Peppers_(10600667606).jpg",
+      "description": "Мелкие острые стручки, которые торчат вверх, как свечки. Куст компактный и урожайный, плоды хорошо сушатся целиком.",
+      "sow": [
+        2,
+        3
+      ],
+      "harvest": [
+        8,
+        9
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Базилик «Сиам Квин»",
+      "latin": "Ocimum basilicum",
+      "category": "Зелень",
+      "price": 75,
+      "image": "img/7.jpg",
+      "photo": "https://commons.wikimedia.org/wiki/File:Ocimum_basilicum_%27Siam_Queen%27_Bazylia_pospolita_2018-08-12_03.jpg",
+      "description": "Тайский базилик с анисовым ароматом и фиолетовыми соцветиями. Для супов, карри и лимонада. Любит тепло и солнечный подоконник.",
+      "sow": [
+        3,
+        4
+      ],
+      "harvest": [
+        6,
+        8
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Кориандр",
+      "latin": "Coriandrum sativum",
+      "category": "Зелень",
+      "price": 49,
+      "image": "img/8.jpg",
+      "photo": "https://commons.wikimedia.org/wiki/File:Coriander_Leaves.jpg",
+      "description": "Кинза на зелень. Сеется прямо в грядку, быстро идёт в рост. Чтобы зелень была всё лето, подсевайте каждые пару недель.",
+      "sow": [
+        4,
+        5
+      ],
+      "harvest": [
+        6,
+        8
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Щавель кровавый",
+      "latin": "Rumex sanguineus",
+      "category": "Зелень",
+      "price": 140,
+      "image": "img/9.jpg",
+      "photo": "https://commons.wikimedia.org/wiki/File:Rumex_sanguineus_var_sanguineus.JPG",
+      "description": "Декоративный щавель: зелёные листья с бордовыми прожилками. Молодые листья кладут в салат, взрослые растения украшают клумбу.",
+      "sow": [
+        4,
+        5
+      ],
+      "harvest": [
+        7,
+        9
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Космея шоколадная",
+      "latin": "Cosmos atrosanguineus",
+      "category": "Цветы",
+      "price": 180,
+      "image": "img/10.jpg",
+      "photo": "https://commons.wikimedia.org/wiki/File:Cosmos_atrosanguineus_01.jpg",
+      "description": "Цветы бархатного бордово-коричневого цвета. Редкость в каталогах. Любит солнце и не любит перелив.",
+      "sow": [
+        3,
+        4
+      ],
+      "harvest": [
+        7,
+        9
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Настурция",
+      "latin": "Tropaeolum majus",
+      "category": "Цветы",
+      "price": 60,
+      "image": "img/11.jpg",
+      "photo": "https://commons.wikimedia.org/wiki/File:Tropaeolum_majus_2005_G1.jpg",
+      "description": "Неприхотливая лиана с оранжевыми цветами. Цветы и листья съедобны, с перечным вкусом. Сеять сразу в грунт, когда пройдут заморозки.",
+      "sow": [
+        5,
+        5
+      ],
+      "harvest": [
+        6,
+        9
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Подсолнечник",
+      "latin": "Helianthus annuus",
+      "category": "Цветы",
+      "price": 85,
+      "image": "img/12.jpg",
+      "photo": "https://commons.wikimedia.org/wiki/File:Sunflower_macro_wide.jpg",
+      "description": "Классический подсолнечник: крупная корзинка на высоком стебле. Семена созревают к концу лета — хватит и себе, и птицам.",
+      "sow": [
+        5,
+        5
+      ],
+      "harvest": [
+        7,
+        9
+      ]
+    }
+  ],
+  "subscribers": []
+}
